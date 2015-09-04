@@ -1,0 +1,152 @@
+
+body {
+	font-family: "Calibri", Helvetica, sans-serif, blod;
+	font-size: 1em;
+} 
+
+
+ul {
+	list-style-type: none;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #FF6699;
+	font-weight: bold;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #FF6699;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+img.bild {
+    	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+	vertical-align:text-top;
+}
+
+#menylistastart li {
+	display: inline;
+	list-style-type: none;
+    	margin-left: 7.2%;
+	margin-right: 5%;
+	text-decoration: none;
+	font-family: "Calibri", Helvetica, sans-serif;
+	font-size: 2.1em;
+	display: inline;
+	float: center;
+	background: #000000;
+	vertical-align: text-top;
+}
+
+#menylista li {
+	display: inline;
+	list-style-type: none;
+	margin: 5%;
+	text-decoration: none;
+	font-family: "Calibri", Helvetica, sans-serif;
+	font-size: 1.1em;
+	display: inline;
+	float: center;
+	background: #000000;
+}
+
+body#somoss a#omoss,
+body#saktuellt a#aktuellt,
+body#sfilmer a#filmer,
+body#skontakt a#kontakt {
+	color: #000000;
+	background: #FFFFFF;
+}
+
+hr.menystrack {
+}
+
+div.content {
+	width: 70%;
+	margin-left: auto ;
+	margin-right: auto ;
+}
+
+div.menyheader {
+	position: fixed;
+	width: 70%;
+	top: 0%;
+	margin-bottom: 3%;
+	background: #FFFFFF;
+
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=97)";
+	
+	filter: alpha(opacity=97);
+	
+	-moz-opacity:0.97;
+	
+	-khtml-opacity: 0.97;
+    
+	opacity: 0.97;
+}
+
+div.info {
+	text-align: left;
+	padding-top: 12%;
+	overlow: hidden;
+}
+
+a.startlink {
+	text-decoration: none;
+	color: #EEEEEE;
+	font-weight: bold;
+	padding: 0.2% 0.6% 0.2% 0.6%;
+}
+
+a.startlink:visited {
+	text-decoration: none;
+	color: #EEEEEE;
+}
+
+a.startlink:hover {
+	background: #AAAAAA;
+	
+}
+
+a.namnlink {
+	color: #000000;
+}
+
+a.namnlink:hover {
+	color: #A9A9A9;
+}
+
+a.mail {
+	color: #A9A9A9;
+}
+
+a.mail:hover {
+	color: #9A9A9A;
+}
+
+a.lank {
+	color: #FF6699;
+}
+
+a.lank:hover {
+	color: #6699FF;
+}
+
+a.menyheaderlista {
+	color: #FFFFFF;	
+	padding: 0.2% 0.6% 0.2% 0.6%;
+}
+
+
+a.menyheaderlista:hover {
+	background: #AAAAAA;	
+}
+

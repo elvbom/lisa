@@ -1,0 +1,93 @@
+body {
+	font-family: "Open Sans", Helvetica Neue, Helvetica, sans-serif;
+	font-size: 1em;
+	background-image: url("bildhemsidan.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+   font-family: "Open Sans", Helvetica Neue, Helvetica, sans-serif;
+   margin-top: 0px; 
+   font-weight: 900;
+}
+
+
+h3 {
+	margin: 3% 0% 0% 0%;
+	font-family: "Open Sans", Helvetica Neue, Helvetica, sans-serif;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #777777;
+	font-weight: bold;
+    font-family: "Open Sans", Helvetica Neue, Helvetica, sans-serif;
+}
+
+
+a:visited {
+	text-decoration: none;
+	color: #8D38C9;
+}
+
+
+a:hover {
+	text-decoration: none;
+	color: #8D38C9;
+}
+
+
+img.bild {
+    	display: block;
+    	margin-left: 27%;
+		vertical-align:text-top;
+		height: 50%;
+		width: 50%;
+}
+
+
+div.content {
+	width: 70%;
+	margin-left: auto ;
+	margin-right: auto;
+}
+
+
+a.anchor {
+   position: relative;
+   top: -8.5%;
+}
+
+
+div.omossbox {
+	background-color: #ffffff;
+	opacity: 0.9;
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+
+div.filmerbox {
+	background-color: #ffffff;
+	opacity: 0.9;
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+
+div.kontaktbox {
+	background-color: #ffffff;
+	opacity: 0.9;
+	padding-bottom: 1%;
+	padding-top: 3%;
+}
+
+a.titel {
+	font-family: "Open Sans", Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #8D38C9;
+}
+
+img.thumb {
+	padding-right: 1%;
+}

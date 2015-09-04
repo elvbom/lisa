@@ -1,0 +1,145 @@
+body {
+	font-family: "Roboto Slab", Helvetica, sans-serif;
+	font-size: 1em;
+    color: #FFFFFF;
+    background-image: url("Onesize1.png");
+    background-repeat: repeat;
+}
+
+/*h1:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -80px; 
+  height: 80px; 
+  visibility: hidden; 
+}*/
+
+
+h1 {
+   font-family: "Arimo", Helvetica, sans-serif;
+   margin-top: 0px; 
+}
+
+
+h3 {
+	margin: 3% 0% 0% 0%;
+	font-family: "Arimo", Helvetica, sans-serif;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #aafefc;
+	font-weight: bold;
+    font-family: "Arimo", Helvetica, sans-serif;
+}
+
+
+a:visited {
+	text-decoration: none;
+	color: #FF6699;
+}
+
+
+a:hover {
+	text-decoration: underline;
+	color: #FF6699;
+
+}
+
+
+img.bild {
+    	display: block;
+    	margin-left: 300px;
+		vertical-align:text-top;
+		height=50% 
+		width=50%
+}
+
+div.content {
+	width: 70%;
+	margin-left: auto ;
+	margin-right: auto;
+}
+
+
+header {
+    height: 8.5%;
+	position: fixed;
+	width: 100%;
+	top: 0%;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=97)";
+	filter: alpha(opacity=97);
+	-moz-opacity:0.97;
+	-khtml-opacity: 0.97;
+	opacity: 0.97;
+    transition: top 0.2s ease-in-out;
+}
+
+
+a.menyheaderlista {
+	position: relative;
+    top: -8.5%;
+	color: #FF9F9F;	
+	font-family: "Oxygen", Helvetica, sans-serif;
+}
+
+
+a.menyheaderlista:hover {
+	color: #FF6699;	
+}
+
+
+a.anchor {
+   position: relative;
+   top: -8.5%;
+}
+
+
+#menylista li {
+	list-style-type: none;
+	margin: 3%;
+	text-decoration: none;
+	font-size: 0.95em;
+}
+
+div.omossbox {
+	padding-bottom: 3%;
+	padding-top: 6%;
+}
+
+div.filmerbox {
+	padding-bottom: 3%;
+	padding-top: 6%;
+}
+
+div.kontaktbox {
+	padding-bottom: 1%;
+	padding-top: 6%;
+}
+
+a.titel {
+	font-family: "Arimo", Helvetica, sans-serif;
+	font-weight: bold;
+	color: #f8ef5d;
+}
+
+img.thumb {
+	padding-right: 2%;
+}
+
+.left {
+    float: left;
+    width: 30%;
+}
+
+.center {
+    display: inline-block;
+    margin-left: 5%;
+    width: 30%;
+}
+
+.right {
+    float:right;
+    width: 30%;
+}

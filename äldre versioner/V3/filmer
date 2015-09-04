@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Tjejfilm</title>
+<link rel="stylesheet" type="text/css" href="tjejfilm.css">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab|Arimo|Oxygen' rel='stylesheet' type='text/css'>
+</head>
+
+<header>
+		<ul id="menylista">
+			<li><a class="menyheaderlista" href="index.html">start</a></li>
+			<li><a class="menyheaderlista" href="hej.html">om oss</a></li>
+			<li><a class="menyheaderlista" href="filmer.html">filmer</a></li>
+			<li><a class="menyheaderlista" href="kontakt.html">kontakt</a></li>
+		</ul>
+</header>
+
+<body>
+
+<a name="index" href="index.html"><img class="bild" src="logga1.png"></a>
+
+<div class="filmerbox">
+	<div class="content">
+		<h1 id="filmer">filmer</a></h1>
+		<p><img class="thumb" src="Porrskadat.png" style="width: 150px; float: left;">
+			<a class="titel">Porrskadat</a> är en intervjufilm där åtta tjejer berättar om hur porr påverkat deras relationer, sexualitet och självbild. Det är personliga berättelser som problematiserar kring skapad sexualitet och vad ett allt mer pornofierat samhälle kan göra med ens varande. 
+			</br><i>Av Moa Kjellstrand och Roxane von Gerber Hedayat</i><br/><br/>
+		<img class="thumb" src="Porrskadat20.png" style="width: 150px; float: left;">
+			<a class="titel">Porrskadat 2.0</a> är en intervjufilm med liknande uppbyggnad, men med män istället för kvinnor som berättar om hur deras relation till porr ser ut och hur den påverkar dem. 
+			</br><i>Av: Moa Kjellstrand och Roxane von Gerber Hedayat</i><br/><br/><br/>
+		<img class="thumb" src="Emelie.png" style="width: 150px; float: left;">
+			<a class="titel">Emelie på hotellet</a> är en kortdokumentär där vi följer den 23-åriga Emelie, som saknar bostad men tillfälligt bor i ett nedlagt hotell som står och väntar på rivning.
+			</br><i>Av: Moa Kjellstrand och Roxane von Gerber Hedayat</i><br/><br/></br>
+		<img class="thumb" src="Indianen.png" style="width: 150px; float: left;">
+			<a class="titel">Indianentvåtusentolv</a> är en dokumentärfilm som skildrar hur en socialistisk och feministsik sensommarfestival blir till för första gången.
+			</br><i>Av: Lisa Forslund</i><br/></br></br></br>
+		<img class="thumb" src="serny.png" style="width: 150px; float: left;">
+			<a class="titel">Kön handlar inte om kön</a> är en dokumentärfilm där tvåkönsnormen ifrågasätts bland annat genom att vi får höra fyra peroners upplevelser av att inte identifiera sig med ett linjärt kön.
+			</br><i>Av: Lisa Forslund</i><br/><br/><br/>
+		<img class="thumb" src="Onesize.png" style="width: 150px; float: left;">
+			<a class="titel">Onesize</a> är en kortfilm som handlar om dynamiken i en vänskap där vännerna befinner sig på två sidor av skönhetsidealet.
+			</br><i>Av: Lisa Forslund</i>
+			</p>
+	</div>
+</div>
+</body>
+</html>
